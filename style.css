@@ -104,6 +104,13 @@ h2{
 .footer-message a{
     text-decoration: none; 
 }
+.footer-message a:hover{
+    text-decoration: underline;
+    color: #ffffff;
+    font-style: oblique;
+}
+
+
 .footer-message p,a h3{
     color: #ffffff; 
 }
